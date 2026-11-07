@@ -1,0 +1,13 @@
+private/
+*.mp4
+*.webm
+*.mov
+*.png
+*.jpg
+*.wav
+*.mp3
+!assets/thumbnail/*.png
+!assets/thumbnail/*.gif
+!assets/thumbnail/*.mp4
+.env
+.DS_Store
